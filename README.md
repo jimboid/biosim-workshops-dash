@@ -10,5 +10,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [![PCA workshop](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml)
 [![pdb2pqr workshop](https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml)
 [![python workshop](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml)
+[![qmmm workshop](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml)
 [![structure validation workshop](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml)
 [![ubiquitin workshop](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml)
