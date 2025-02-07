@@ -9,6 +9,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [![clustering workshop](https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yml)
 [![docking workshop](https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yml)
 [![equilibration workshop](https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml/badge.svg)](https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml)
+[![introamber workshop](https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml)
 [![PCA workshop](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml)
 [![pdb2pqr workshop](https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml)
 [![python workshop](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml)
