@@ -7,4 +7,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 [![docking workshop](https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yml)
 
+[![PCA workshop](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml)
+
 [![ubiquitin workshop](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml)
