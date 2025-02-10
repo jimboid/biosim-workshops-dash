@@ -3,6 +3,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 
 | Container | Builds |
+| -------- | ------- |
 | base | [![base container](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml) |
 
 [![base container](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml)
