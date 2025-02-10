@@ -4,7 +4,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds |
 | -------- | ------- |
-| base | [![build](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml) |
+| ccpbiosim base container | [![build](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml) |
 | aiida lysozyme workshop | [![build](https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml) |
 | aiida gpcr workshop | [![build](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml) |
 | basic analysis workshop | [![build](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml) |
