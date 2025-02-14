@@ -11,7 +11,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | basic statistics workshop | [![stats-build]][stats-build-link] |
 | beginner workshop | [![beginners-build]][beginners-build-link] |
 | clustering workshop | [![clustering-build]][clustering-build-link] |
-| code_entropy workshop | [![codeentropy-build]][codeentropy-build-link] |
+| code_entropy workshop | [![entropy-build]][entropy-build-link] |
 | docking workshop | [![docking-build]][docking-build-link] |
 | enhanced sampling workshop | [![en-samp-build]][en-samp-build-link] |
 | equilibration workshop | [![equilibration-build]][equilibration-build-link] |
