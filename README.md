@@ -1,30 +1,29 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-
 | Container | Builds | Latest | Size |
 | -------- | ------- | ------ | ---- |
-| ccpbiosim base container | [![base-build]][base-build-link] |  | ![base-size]
-| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] |  | ![lysozyme-size]
-| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] |  | ![gpcr-size]
-| basic analysis workshop | [![anals-build]][anals-build-link] |  | ![anals-size]
-| basic statistics workshop | [![stats-build]][stats-build-link] |  | ![stats-size]
-| beginner workshop | [![beginner-build]][beginner-build-link] |  | ![beginner-size]
-| clustering workshop | [![clustering-build]][clustering-build-link] |  | ![clustering-size]
-| code_entropy workshop | [![entropy-build]][entropy-build-link] |  | ![entropy-size]
-| docking workshop | [![docking-build]][docking-build-link] |  | ![docking-size]
-| enhanced sampling workshop | [![en-samp-build]][en-samp-build-link] |  | ![en-samp-size]
-| equilibration workshop | [![equilibration-build]][equilibration-build-link] |  | ![equilibration-size]
-| introamber workshop | [![introamber-build]][introamber-build-link] |  | ![introamber-size]
-| nemd workshop | [![nemd-build]][nemd-build-link] |  | ![nemd-size]
-| openforcefield workshop | [![openff-build]][openff-build-link] |  | ![openff-size]
-| PCA workshop | [![pca-build]][pca-build-link] |  | ![pca-size]
-| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] |  | ![pdb2pqr-size]
-| python workshop | [![python-build]][python-build-link] |  | ![python-size]
-| qmmm workshop | [![qmmm-build]][qmmm-build-link] |  | ![qmmm-size]
-| structure validation workshop | [![struct-build]][struct-build-link] |  | ![struct-size]
-| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] |  | ![ubiq-size]
-
+| ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size]
+| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]
+| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size]
+| basic analysis workshop | [![anals-build]][anals-build-link] | ![anals-tag] | ![anals-size]
+| basic statistics workshop | [![stats-build]][stats-build-link] | ![stats-tag] | ![stats-size]
+| beginner workshop | [![beginner-build]][beginner-build-link] | ![beginner-tag] | ![beginner-size]
+| clustering workshop | [![clustering-build]][clustering-build-link] | ![clustering-tag] | ![clustering-size]
+| code_entropy workshop | [![entropy-build]][entropy-build-link] | ![entropy-tag] | ![entropy-size]
+| docking workshop | [![docking-build]][docking-build-link] | ![docking-tag] | ![docking-size]
+| enhanced sampling workshop 1 | [![en-samp-build]][en-samp-build-link] | ![en-samp1-tag] | ![en-samp1-size]
+| enhanced sampling workshop 2 | [![en-samp-build]][en-samp-build-link] | ![en-samp2-tag] | ![en-samp2-size]
+| equilibration workshop | [![equilibration-build]][equilibration-build-link] | ![equilibration-tag] | ![equilibration-size]
+| introamber workshop | [![introamber-build]][introamber-build-link] | ![introamber-tag] | ![introamber-size]
+| nemd workshop | [![nemd-build]][nemd-build-link] | ![nemd-tag] | ![nemd-size]
+| openforcefield workshop | [![openff-build]][openff-build-link] | ![openff-tag] | ![openff-size]
+| PCA workshop | [![pca-build]][pca-build-link] | ![pca-tag] | ![pca-size]
+| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] | ![pdb2pqr-tag] | ![pdb2pqr-size]
+| python workshop | [![python-build]][python-build-link] | ![python-tag] | ![python-size]
+| qmmm workshop | [![qmmm-build]][qmmm-build-link] | ![qmmm-tag] | ![qmmm-size]
+| structure validation workshop | [![struct-build]][struct-build-link] | ![struct-tag] | ![struct-size]
+| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![ubiq-tag] | ![ubiq-size]
 
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [base-build-link]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
@@ -67,6 +66,28 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [ubiq-build]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [ubiq-build-link]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml
 
+[base-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-jupyterhub-base/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[lysozyme-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-lysozyme-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[gpcr-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-gpcr-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[anals-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-basic-analysis-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[stats-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-basic-statistics-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[beginner-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-beginners-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=e>
+[clustering-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-clustering-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[entropy-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-codeentropy-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[docking-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-docking-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[en-samp1-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop-part1/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[en-samp2-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop-part2/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[equilibration-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-equilibration-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=e>
+[introamber-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-introamber-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[nemd-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-nemd-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[openff-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-openff-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[pca-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-pca-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[pdb2pqr-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-pdb2pqr-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[python-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-python-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[qmmm-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-qmmm-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[struct-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-structure-validation-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+[ubiq-tag]: <https://ghcr-badge.egpl.dev/jimboid/biosim-ubiquitin-analysis-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=>
+
 [base-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-jupyterhub-base/size>
 [lysozyme-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-lysozyme-workshop/size>
 [gpcr-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-gpcr-workshop/size>
@@ -76,7 +97,8 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [clustering-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-clustering-workshop/size>
 [entropy-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-codeentropy-workshop/size>
 [docking-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-docking-workshop/size>
-[en-samp-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop/size>
+[en-samp1-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop-part1/size>
+[en-samp2-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop-part2/size>
 [equilibration-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-equilibration-workshop/size>
 [introamber-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-introamber-workshop/size>
 [nemd-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-nemd-workshop/size>
@@ -88,3 +110,4 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [struct-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-structure-validation-workshop/size>
 [ubiq-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-ubiquitin-analysis-workshop/size>
 
+https://ghcr-badge.egpl.dev/jimboid/biosim-nemd-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=
