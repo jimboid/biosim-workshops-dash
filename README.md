@@ -9,7 +9,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] |
 | basic analysis workshop | [![anals-build]][anals-build-link] |
 | basic statistics workshop | [![stats-build]][stats-build-link] |
-| beginner workshop | [![beginners-build]][beginners-build-link] |
+| beginner workshop | [![beginner-build]][beginner-build-link] |
 | clustering workshop | [![clustering-build]][clustering-build-link] |
 | code_entropy workshop | [![entropy-build]][entropy-build-link] |
 | docking workshop | [![docking-build]][docking-build-link] |
