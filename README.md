@@ -4,8 +4,8 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds |
 | -------- | ------- |
-| ccpbiosim base container | [![build](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml) |
-| aiida lysozyme workshop | [![build](https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml) |
+| ccpbiosim base container | [![base-build-image]][base-build-link] |
+| aiida lysozyme workshop | [![aiida-lysozyme-image]][aiida-lysozyme-link] |
 | aiida gpcr workshop | [![build](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml) |
 | basic analysis workshop | [![build](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml) |
 | basic statistics workshop | [![build](https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml) |
@@ -24,3 +24,29 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | qmmm workshop | [![build](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml) |
 | structure validation workshop | [![build](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml) |
 | ubiquitin workshop | [![build](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml) |
+
+
+[base-build-image]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)
+[base-build-link]:  https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-gpcr-image]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-gpcr-link]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+[aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
+
+
