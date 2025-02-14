@@ -2,8 +2,8 @@
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
 
-| Container | Builds |
-| -------- | ------- |
+| Container | Builds | Latest | Size |
+| -------- | ------- | ------ | ---- |
 | ccpbiosim base container | [![base-build]][base-build-link] |
 | aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] |
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] |
