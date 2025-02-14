@@ -47,7 +47,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [en-samp-build]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [en-samp-build-link]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yml
 [equilibration-build]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[equilibration-build-build-link]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml
+[equilibration-build-link]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml
 [introamber-build]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [introamber-build-link]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml
 [nemd-build]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yml/badge.svg?branch=main
