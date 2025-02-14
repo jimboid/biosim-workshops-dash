@@ -20,10 +20,10 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | openforcefield workshop | [![openff-build]][openff-build-link] |
 | PCA workshop | [![pca-build]][pca-build-link] |
 | pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] |
-| python workshop | [![build](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml) |
-| qmmm workshop | [![build](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml) |
-| structure validation workshop | [![build](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml) |
-| ubiquitin workshop | [![build](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml) |
+| python workshop | [![python-build]][python-build-link] |
+| qmmm workshop | [![qmmm-build]][qmmm-build-link] |
+| structure validation workshop | [![struct-build]][struct-build-link] |
+| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] |
 
 
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
@@ -56,5 +56,13 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [openff-build-link]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yml
 [pca-build]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [pca-build-link]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml
-[pdb2pqr-build]: https://github.com/jimboid/biosim-pqb2pqr-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[pdb2pqr-build-link]: https://github.com/jimboid/biosim-pqb2pqr-workshop/actions/workflows/build.yml
+[pdb2pqr-build]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[pdb2pqr-build-link]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml
+[python-build]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[python-build-link]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml
+[qmmm-build]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[qmmm-build-link]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml
+[struct-build]: https://github.com/jimboid/biosim-struct-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[struct-build-link]: https://github.com/jimboid/biosim-struct-workshop/actions/workflows/build.yml
+[ubiq-build]: https://github.com/jimboid/biosim-ubiq-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[ubiq-build-link]: https://github.com/jimboid/biosim-ubiq-workshop/actions/workflows/build.yml
