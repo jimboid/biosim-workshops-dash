@@ -27,7 +27,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 
 [base]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main)
-[base-link]:  https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
+[base-link]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
 [aiida-lysozyme-image]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [aiida-lysozyme-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
 [aiida-gpcr-image]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main
