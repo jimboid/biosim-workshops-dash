@@ -64,5 +64,5 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [qmmm-build-link]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml
 [struct-build]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [struct-build-link]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml
-[ubiq-build]: https://github.com/jimboid/biosim-ubiquitin-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[ubiq-build-link]: https://github.com/jimboid/biosim-ubiquitin-workshop/actions/workflows/build.yml
+[ubiq-build]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[ubiq-build-link]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml
