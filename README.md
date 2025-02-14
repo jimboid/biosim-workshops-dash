@@ -62,7 +62,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [python-build-link]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml
 [qmmm-build]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [qmmm-build-link]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml
-[struct-build]: https://github.com/jimboid/biosim-struct-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[struct-build-link]: https://github.com/jimboid/biosim-struct-workshop/actions/workflows/build.yml
-[ubiq-build]: https://github.com/jimboid/biosim-ubiq-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[ubiq-build-link]: https://github.com/jimboid/biosim-ubiq-workshop/actions/workflows/build.yml
+[struct-build]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[struct-build-link]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml
+[ubiq-build]: https://github.com/jimboid/biosim-ubiquitin-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[ubiq-build-link]: https://github.com/jimboid/biosim-ubiquitin-workshop/actions/workflows/build.yml
