@@ -4,8 +4,8 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds |
 | -------- | ------- |
-| ccpbiosim base container | [![base-build-image]][base-build-link] |
-| aiida lysozyme workshop | [![aiida-lysozyme-image]][aiida-lysozyme-link] |
+| ccpbiosim base container | [![][base-build-image]][base-build-link] |
+| aiida lysozyme workshop | [![][aiida-lysozyme-image]][aiida-lysozyme-link] |
 | aiida gpcr workshop | [![build](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml) |
 | basic analysis workshop | [![build](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml) |
 | basic statistics workshop | [![build](https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml) |
