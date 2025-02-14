@@ -4,26 +4,26 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds | Latest | Size |
 | -------- | ------- | ------ | ---- |
-| ccpbiosim base container | [![base-build]][base-build-link] | ![1]
-| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![1]
-| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![1]
-| basic analysis workshop | [![anals-build]][anals-build-link] | ![1]
-| basic statistics workshop | [![stats-build]][stats-build-link] | ![1]
-| beginner workshop | [![beginner-build]][beginner-build-link] | ![1]
-| clustering workshop | [![clustering-build]][clustering-build-link] | ![1]
-| code_entropy workshop | [![entropy-build]][entropy-build-link] | ![1]
-| docking workshop | [![docking-build]][docking-build-link] | ![1]
-| enhanced sampling workshop | [![en-samp-build]][en-samp-build-link] | ![1]
-| equilibration workshop | [![equilibration-build]][equilibration-build-link] | ![1]
-| introamber workshop | [![introamber-build]][introamber-build-link] | ![1]
-| nemd workshop | [![nemd-build]][nemd-build-link] | ![1]
-| openforcefield workshop | [![openff-build]][openff-build-link] | ![1]
-| PCA workshop | [![pca-build]][pca-build-link] | ![1]
-| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] | ![1]
-| python workshop | [![python-build]][python-build-link] | ![1]
-| qmmm workshop | [![qmmm-build]][qmmm-build-link] | ![1]
-| structure validation workshop | [![struct-build]][struct-build-link] | ![1]
-| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![1]
+| ccpbiosim base container | [![base-build]][base-build-link] |  | ![base-size]
+| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] |  | ![lysozyme-size]
+| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] |  | ![gpcr-size]
+| basic analysis workshop | [![anals-build]][anals-build-link] |  | ![anals-size]
+| basic statistics workshop | [![stats-build]][stats-build-link] |  | ![stats-size]
+| beginner workshop | [![beginner-build]][beginner-build-link] |  | ![beginner-size]
+| clustering workshop | [![clustering-build]][clustering-build-link] |  | ![clustering-size]
+| code_entropy workshop | [![entropy-build]][entropy-build-link] |  | ![entropy-size]
+| docking workshop | [![docking-build]][docking-build-link] |  | ![docking-size]
+| enhanced sampling workshop | [![en-samp-build]][en-samp-build-link] |  | ![en-samp-size]
+| equilibration workshop | [![equilibration-build]][equilibration-build-link] |  | ![equilibration-size]
+| introamber workshop | [![introamber-build]][introamber-build-link] |  | ![introamber-size]
+| nemd workshop | [![nemd-build]][nemd-build-link] |  | ![nemd-size]
+| openforcefield workshop | [![openff-build]][openff-build-link] |  | ![openff-size]
+| PCA workshop | [![pca-build]][pca-build-link] |  | ![pca-size]
+| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] |  | ![pdb2pqr-size]
+| python workshop | [![python-build]][python-build-link] |  | ![python-size]
+| qmmm workshop | [![qmmm-build]][qmmm-build-link] |  | ![qmmm-size]
+| structure validation workshop | [![struct-build]][struct-build-link] |  | ![struct-size]
+| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] |  | ![ubiq-size]
 
 
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
@@ -67,4 +67,24 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [ubiq-build]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [ubiq-build-link]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml
 
-[1]: <https://ghcr-badge.egpl.dev/eggplants/ghcr-badge/size>
+[base-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-jupyterhub-base/size>
+[lysozyme-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-lysozyme-workshop/size>
+[gpcr-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-aiida-gpcr-workshop/size>
+[anals-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-basic-analysis-workshop/size>
+[stats-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-basic-statistics-workshop/size>
+[beginner-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-beginners-workshop/size>
+[clustering-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-clustering-workshop/size>
+[entropy-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-codeentropy-workshop/size>
+[docking-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-docking-workshop/size>
+[en-samp-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-enhanced-sampling-workshop/size>
+[equilibration-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-equilibration-workshop/size>
+[introamber-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-introamber-workshop/size>
+[nemd-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-nemd-workshop/size>
+[openff-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-openff-workshop/size>
+[pca-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-pca-workshop/size>
+[pdb2pqr-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-pdb2pqr-workshop/size>
+[python-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-python-workshop/size>
+[qmmm-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-qmmm-workshop/size>
+[struct-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-structure-validation-workshop/size>
+[ubiq-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-ubiquitin-analysis-workshop/size>
+
