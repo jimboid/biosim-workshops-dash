@@ -1,8 +1,8 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-| Container | Builds | Latest | Size |
-| -------- | ------- | ------ | ---- |
+| Container | Builds | Latest | Size | Pulls |
+| -------- | ------- | ------ | ---- | ----- |
 | ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size]
 | aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size]
@@ -109,5 +109,3 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [qmmm-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-qmmm-workshop/size>
 [struct-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-structure-validation-workshop/size>
 [ubiq-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-ubiquitin-analysis-workshop/size>
-
-https://ghcr-badge.egpl.dev/jimboid/biosim-nemd-workshop/latest_tag?color=%2344cc11&ignore=latest&label=version&trim=
