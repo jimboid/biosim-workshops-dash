@@ -3,7 +3,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds | Latest | Size | Pulls |
 | -------- | ------- | ------ | ---- | ----- |
-| ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size]
+| ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size] | ![1pull] |
 | aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size]
 | basic analysis workshop | [![anals-build]][anals-build-link] | ![anals-tag] | ![anals-size]
@@ -109,3 +109,5 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [qmmm-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-qmmm-workshop/size?label=image>
 [struct-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-structure-validation-workshop/size?label=image>
 [ubiq-size]: <https://ghcr-badge.egpl.dev/jimboid/biosim-ubiquitin-analysis-workshop/size?label=image>
+
+[1pull]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fipitio.github.io%2Fbackage%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.json&query=%24.downloads&logo=github&label=pulls&color=blue
