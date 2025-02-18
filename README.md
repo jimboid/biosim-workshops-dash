@@ -4,26 +4,26 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container | Builds | Latest | Size | Pulls |
 | -------- | ------- | ------ | ---- | ----- |
 | ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size] | ![1pull] |
-| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]
-| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size]
-| basic analysis workshop | [![anals-build]][anals-build-link] | ![anals-tag] | ![anals-size]
-| basic statistics workshop | [![stats-build]][stats-build-link] | ![stats-tag] | ![stats-size]
-| beginner workshop | [![beginner-build]][beginner-build-link] | ![beginner-tag] | ![beginner-size]
-| clustering workshop | [![clustering-build]][clustering-build-link] | ![clustering-tag] | ![clustering-size]
-| code_entropy workshop | [![entropy-build]][entropy-build-link] | ![entropy-tag] | ![entropy-size]
-| docking workshop | [![docking-build]][docking-build-link] | ![docking-tag] | ![docking-size]
-| enhanced sampling workshop 1 | [![en-samp-build]][en-samp-build-link] | ![en-samp1-tag] | ![en-samp1-size]
-| enhanced sampling workshop 2 | [![en-samp-build]][en-samp-build-link] | ![en-samp2-tag] | ![en-samp2-size]
-| equilibration workshop | [![equilibration-build]][equilibration-build-link] | ![equilibration-tag] | ![equilibration-size]
-| introamber workshop | [![introamber-build]][introamber-build-link] | ![introamber-tag] | ![introamber-size]
-| nemd workshop | [![nemd-build]][nemd-build-link] | ![nemd-tag] | ![nemd-size]
-| openforcefield workshop | [![openff-build]][openff-build-link] | ![openff-tag] | ![openff-size]
-| PCA workshop | [![pca-build]][pca-build-link] | ![pca-tag] | ![pca-size]
-| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] | ![pdb2pqr-tag] | ![pdb2pqr-size]
-| python workshop | [![python-build]][python-build-link] | ![python-tag] | ![python-size]
-| qmmm workshop | [![qmmm-build]][qmmm-build-link] | ![qmmm-tag] | ![qmmm-size]
-| structure validation workshop | [![struct-build]][struct-build-link] | ![struct-tag] | ![struct-size]
-| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![ubiq-tag] | ![ubiq-size]
+| aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]  | ![2pull] |
+| aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size] | ![3pull] |
+| basic analysis workshop | [![anals-build]][anals-build-link] | ![anals-tag] | ![anals-size] | ![4pull] |
+| basic statistics workshop | [![stats-build]][stats-build-link] | ![stats-tag] | ![stats-size] | ![5pull] |
+| beginner workshop | [![beginner-build]][beginner-build-link] | ![beginner-tag] | ![beginner-size] | ![6pull] |
+| clustering workshop | [![clustering-build]][clustering-build-link] | ![clustering-tag] | ![clustering-size] | ![7pull] |
+| code_entropy workshop | [![entropy-build]][entropy-build-link] | ![entropy-tag] | ![entropy-size] | ![8pull] |
+| docking workshop | [![docking-build]][docking-build-link] | ![docking-tag] | ![docking-size] | ![9pull] |
+| enhanced sampling workshop 1 | [![en-samp-build]][en-samp-build-link] | ![en-samp1-tag] | ![en-samp1-size] | ![10pull] |
+| enhanced sampling workshop 2 | [![en-samp-build]][en-samp-build-link] | ![en-samp2-tag] | ![en-samp2-size] | ![11pull] |
+| equilibration workshop | [![equilibration-build]][equilibration-build-link] | ![equilibration-tag] | ![equilibration-size] | ![12pull] |
+| introamber workshop | [![introamber-build]][introamber-build-link] | ![introamber-tag] | ![introamber-size] | ![13pull] |
+| nemd workshop | [![nemd-build]][nemd-build-link] | ![nemd-tag] | ![nemd-size] | ![14pull] |
+| openforcefield workshop | [![openff-build]][openff-build-link] | ![openff-tag] | ![openff-size] | ![15pull] |
+| PCA workshop | [![pca-build]][pca-build-link] | ![pca-tag] | ![pca-size] | ![16pull] |
+| pdb2pqr workshop | [![pdb2pqr-build]][pdb2pqr-build-link] | ![pdb2pqr-tag] | ![pdb2pqr-size] | ![17pull] |
+| python workshop | [![python-build]][python-build-link] | ![python-tag] | ![python-size] | ![18pull] |
+| qmmm workshop | [![qmmm-build]][qmmm-build-link] | ![qmmm-tag] | ![qmmm-size] | ![19pull] |
+| structure validation workshop | [![struct-build]][struct-build-link] | ![struct-tag] | ![struct-size] | ![20pull] |
+| ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![ubiq-tag] | ![ubiq-size] | ![21pull] |
 
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [base-build-link]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
