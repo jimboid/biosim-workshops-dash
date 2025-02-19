@@ -6,7 +6,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size] | ![1pull] |
 | aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]  | ![2pull] |
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size] | ![3pull] |
-| basic analysis workshop | [![anals-build]][anals-build-link] | ![anals-tag] | ![anals-size] | ![4pull] |
 | basic statistics workshop | [![stats-build]][stats-build-link] | ![stats-tag] | ![stats-size] | ![5pull] |
 | beginner workshop | [![beginner-build]][beginner-build-link] | ![beginner-tag] | ![beginner-size] | ![6pull] |
 | clustering workshop | [![clustering-build]][clustering-build-link] | ![clustering-tag] | ![clustering-size] | ![7pull] |
@@ -28,6 +27,13 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container |  |
 | -------- | ------------------------------------------------------------------------------------------------------------------- |
 | ccpbiosim base container | [![base-build]][base-build-link] ![base-tag] ![base-size] ![1pull] |
+| basic analysis workshop | [![build4]][link-4] | [![latest4]][link-4] | [![size4]][link-4] | [![pulls4]][link-4] |
+
+[build-4]: (https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main)]
+[latest-4]: (https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple)]
+[size-4]: (https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange)]
+[pulls-4]: (https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue)]
+[link-4]: https://github.com/jimboid/biosim-basic-analysis-workshop
 
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [base-build-link]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
@@ -35,8 +41,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [lysozyme-build-link]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml
 [gpcr-build]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [gpcr-build-link]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml
-[anals-build]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
-[anals-build-link]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml
 [stats-build]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [stats-build-link]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml
 [beginner-build]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yml/badge.svg?branch=main
