@@ -27,7 +27,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container |  |
 | -------- | ------------------------------------------------------------------------------------------------------------------- |
 | ccpbiosim base container | [![base-build]][base-build-link] ![base-tag] ![base-size] ![1pull] |
-| basic analysis workshop | [![build4]][link-4] | [![latest4]][link-4] | [![size4]][link-4] | [![pulls4]][link-4] |
+| basic analysis workshop | [![build-4]][link-4] | [![latest-4]][link-4] | [![size-4]][link-4] | [![pulls-4]][link-4] |
 
 [build-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [latest-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
