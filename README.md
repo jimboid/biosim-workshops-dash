@@ -31,6 +31,18 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [pulls-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-1]: https://github.com/jimboid/biosim-jupyterhub-base
 
+[build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[latest-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
+[size-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
+[pulls-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
+[link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop
+
+[build-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[latest-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
+[size-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
+[pulls-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
+[link-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop
+
 [build-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [latest-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
 [size-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
