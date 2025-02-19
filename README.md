@@ -25,6 +25,10 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | structure validation workshop | [![struct-build]][struct-build-link] | ![struct-tag] | ![struct-size] | ![20pull] |
 | ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![ubiq-tag] | ![ubiq-size] | ![21pull] |
 
+| Container |  |
+| -------- | ------------------------------------------------------------------------------------------------------------------- |
+| ccpbiosim base container | [![base-build]][base-build-link] ![base-tag] ![base-size] ![1pull] |
+
 [base-build]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [base-build-link]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml
 [lysozyme-build]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
