@@ -23,10 +23,29 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | structure validation workshop | [![struct-build]][struct-build-link] | ![struct-tag] | ![struct-size] | ![20pull] |
 | ubiquitin workshop | [![ubiq-build]][ubiq-build-link] | ![ubiq-tag] | ![ubiq-size] | ![21pull] |
 
-| Container |  |
-| -------- | ------------------------------------------------------------------------------------------------------------------- |
-| ccpbiosim base container |[![build-1]][link-1] [![latest-1]][link-1] [![size-1]][link-1] [![pulls-1]][link-1] |
-| basic analysis workshop | [![build-4]][link-4] [![latest-4]][link-4] [![size-4]][link-4] [![pulls-4]][link-4] |
+| Container |                                                                                                                     |
+| --------- | ------------------------------------------------------------------------------------------------------------------- |
+| ccpbiosim base container      | [![build-1]][link-1] [![latest-1]][link-1] [![size-1]][link-1] [![pulls-1]][link-1] |
+| aiida lysozyme workshop       |  |
+| aiida gpcr workshop           |  |
+| basic analysis workshop       |  |
+| basic statistics workshop     |  |
+| beginner workshop             |  |
+| clustering workshop           |  |
+| code_entropy workshop         |  |
+| docking workshop              |  |
+| enhanced sampling workshop 1  |  |
+| enhanced sampling workshop 2  |  |
+| equilibration workshop        |  |
+| introamber workshop           |  |
+| nemd workshop                 |  |
+| openforcefield workshop       |  |
+| PCA workshop                  |  |
+| pdb2pqr workshop              |  |
+| python workshop               |  |
+| qmmm workshop                 |  |
+| structure validation workshop |  |
+| ubiquitin workshop            |  |
 
 [build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
