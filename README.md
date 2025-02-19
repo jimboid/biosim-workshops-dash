@@ -28,7 +28,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | ccpbiosim base container      | [![build-1]][link-1] [![latest-1]][link-1] [![size-1]][link-1] [![pulls-1]][link-1] |
 | aiida lysozyme workshop       |  |
 | aiida gpcr workshop           |  |
-| basic analysis workshop       |  |
+| basic analysis workshop       | [![build-4]][link-4] [![latest-4]][link-4] [![size-4]][link-4] [![pulls-4]][link-4] |
 | basic statistics workshop     |  |
 | beginner workshop             |  |
 | clustering workshop           |  |
