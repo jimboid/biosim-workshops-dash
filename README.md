@@ -3,7 +3,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container | Builds | Latest | Size | Pulls |
 | -------- | ------- | ------ | ---- | ----- |
-| ccpbiosim base container | [![base-build]][base-build-link] | ![base-tag] | ![base-size] | ![1pull] |
 | aiida lysozyme workshop | [![lysozyme-build]][lysozyme-build-link] | ![lysozyme-tag] | ![lysozyme-size]  | ![2pull] |
 | aiida gpcr workshop | [![gpcr-build]][gpcr-build-link] | ![gpcr-tag] | ![gpcr-size] | ![3pull] |
 | basic statistics workshop | [![stats-build]][stats-build-link] | ![stats-tag] | ![stats-size] | ![5pull] |
@@ -26,8 +25,14 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container |  |
 | -------- | ------------------------------------------------------------------------------------------------------------------- |
-| ccpbiosim base container | [![base-build]][base-build-link] ![base-tag] ![base-size] ![1pull] |
+| ccpbiosim base container |[![build-1]][link-1] [![latest-1]][link-1] [![size-1]][link-1] [![pulls-1]][link-1] |
 | basic analysis workshop | [![build-4]][link-4] [![latest-4]][link-4] [![size-4]][link-4] [![pulls-4]][link-4] |
+
+[build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
+[latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
+[size-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fsize&logo=github&label=size&color=orange
+[pulls-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
+[link-1]: https://github.com/jimboid/biosim-jupyterhub-base
 
 [build-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [latest-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
