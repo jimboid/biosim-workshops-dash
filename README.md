@@ -26,9 +26,9 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | ubiquitin workshop            | [![build-21]][link-21] [![latest-21]][link-21] [![size-21]][link-21] [![pulls-21]][link-21] |
 
 [build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
-[latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
-[size-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fsize&logo=github&label=size&color=orange
-[pulls-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyter-base.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
+[latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
+[size-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fsize&logo=github&label=size&color=orange
+[pulls-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-1]: https://github.com/jimboid/biosim-jupyterhub-base
 
 [build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
