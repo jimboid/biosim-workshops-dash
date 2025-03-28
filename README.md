@@ -7,23 +7,23 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | aiida lysozyme workshop       | [![build-2]][link-2] [![latest-2]][link-2] [![size-2]][link-2] [![pulls-2]][link-2] |
 | aiida gpcr workshop           | [![build-3]][link-3] [![latest-3]][link-3] [![size-3]][link-3] [![pulls-3]][link-3] |
 | basic analysis workshop       | [![build-4]][link-4] [![tests-4]][link-4] [![latest-4]][link-4] [![size-4]][link-4] [![pulls-4]][link-4] |
-| basic statistics workshop     | [![build-5]][link-5] [![latest-5]][link-5] [![size-5]][link-5] [![pulls-5]][link-5] |
+| basic statistics workshop     | [![build-5]][link-5] [![tests-5]][link-5] [![latest-5]][link-5] [![size-5]][link-5] [![pulls-5]][link-5] |
 | beginner workshop             | [![build-6]][link-6] [![latest-6]][link-6] [![size-6]][link-6] [![pulls-6]][link-6] |
-| clustering workshop           | [![build-7]][link-7] [![latest-7]][link-7] [![size-7]][link-7] [![pulls-7]][link-7] |
+| clustering workshop           | [![build-7]][link-7] [![tests-7]][link-7] [![latest-7]][link-7] [![size-7]][link-7] [![pulls-7]][link-7] |
 | code_entropy workshop         | [![build-8]][link-8] [![latest-8]][link-8] [![size-8]][link-8] [![pulls-8]][link-8] |
 | docking workshop              | [![build-9]][link-9] [![latest-9]][link-9] [![size-9]][link-9] [![pulls-9]][link-9] |
 | enhanced sampling workshop 1  | [![build-10]][link-10] [![latest-10]][link-10] [![size-10]][link-10] [![pulls-10]][link-10] |
 | enhanced sampling workshop 2  | [![build-11]][link-11] [![latest-11]][link-11] [![size-11]][link-11] [![pulls-11]][link-11] |
-| equilibration workshop        | [![build-12]][link-12] [![latest-12]][link-12] [![size-12]][link-12] [![pulls-12]][link-12] |
+| equilibration workshop        | [![build-12]][link-12] [![tests-12]][link-12] [![latest-12]][link-12] [![size-12]][link-12] [![pulls-12]][link-12] |
 | introamber workshop           | [![build-13]][link-13] [![latest-13]][link-13] [![size-13]][link-13] [![pulls-13]][link-13] |
 | nemd workshop                 | [![build-14]][link-14] [![latest-14]][link-14] [![size-14]][link-14] [![pulls-14]][link-14] |
 | openforcefield workshop       | [![build-15]][link-15] [![latest-15]][link-15] [![size-15]][link-15] [![pulls-15]][link-15] |
-| PCA workshop                  | [![build-16]][link-16] [![latest-16]][link-16] [![size-16]][link-16] [![pulls-16]][link-16] |
-| pdb2pqr workshop              | [![build-17]][link-17] [![latest-17]][link-17] [![size-17]][link-17] [![pulls-17]][link-17] |
+| PCA workshop                  | [![build-16]][link-16] [![tests-16]][link-16] [![latest-16]][link-16] [![size-16]][link-16] [![pulls-16]][link-16] |
+| pdb2pqr workshop              | [![build-17]][link-17] [![tests-17]][link-17] [![latest-17]][link-17] [![size-17]][link-17] [![pulls-17]][link-17] |
 | python workshop               | [![build-18]][link-18] [![latest-18]][link-18] [![size-18]][link-18] [![pulls-18]][link-18] |
 | qmmm workshop                 | [![build-19]][link-19] [![latest-19]][link-19] [![size-19]][link-19] [![pulls-19]][link-19] |
 | structure validation workshop | [![build-20]][link-20] [![latest-20]][link-20] [![size-20]][link-20] [![pulls-20]][link-20] |
-| ubiquitin workshop            | [![build-21]][link-21] [![latest-21]][link-21] [![size-21]][link-21] [![pulls-21]][link-21] |
+| ubiquitin workshop            | [![build-21]][link-21] [![tests-21]][link-21] [![latest-21]][link-21] [![size-21]][link-21] [![pulls-21]][link-21] |
 
 [build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D&logo=github&label=latest&color=purple
