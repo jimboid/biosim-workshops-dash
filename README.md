@@ -12,8 +12,8 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | clustering workshop           | [![build-7]][link-7] [![tests-7]][link-7] [![latest-7]][link-7] [![size-7]][link-7] [![pulls-7]][link-7] |
 | code_entropy workshop         | [![build-8]][link-8] [![latest-8]][link-8] [![size-8]][link-8] [![pulls-8]][link-8] |
 | docking workshop              | [![build-9]][link-9] [![tests-9]][link-9] [![latest-9]][link-9] [![size-9]][link-9] [![pulls-9]][link-9] |
-| enhanced sampling workshop 1  | [![build-10]][link-10] [![latest-10]][link-10] [![size-10]][link-10] [![pulls-10]][link-10] |
-| enhanced sampling workshop 2  | [![build-11]][link-11] [![latest-11]][link-11] [![size-11]][link-11] [![pulls-11]][link-11] |
+| enhanced sampling workshop 1  | [![build-10]][link-10] [![tests-10]][link-10] [![latest-10]][link-10] [![size-10]][link-10] [![pulls-10]][link-10] |
+| enhanced sampling workshop 2  | [![build-11]][link-11] [![tests-11]][link-11] [![latest-11]][link-11] [![size-11]][link-11] [![pulls-11]][link-11] |
 | equilibration workshop        | [![build-12]][link-12] [![tests-12]][link-12] [![latest-12]][link-12] [![size-12]][link-12] [![pulls-12]][link-12] |
 | introamber workshop           | [![build-13]][link-13] [![latest-13]][link-13] [![size-13]][link-13] [![pulls-13]][link-13] |
 | nemd workshop                 | [![build-14]][link-14] [![latest-14]][link-14] [![size-14]][link-14] [![pulls-14]][link-14] |
@@ -83,13 +83,15 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [pulls-9]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-docking-workshop%2Fbiosim-docking-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-9]: https://github.com/jimboid/biosim-docking-workshop
 
-[build-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[build-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container1.yaml/badge.svg?branch=main
+[tests-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/test-container1.yaml/badge.svg?branch=main
 [latest-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop
 
-[build-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[build-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container2.yaml/badge.svg?branch=main
+[tests-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/test-container2.yaml/badge.svg?branch=main
 [latest-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
