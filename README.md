@@ -20,7 +20,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | openforcefield workshop       | [![build-15]][link-15] [![tests-15]][link-15] [![latest-15]][link-15] [![size-15]][link-15] [![pulls-15]][link-15] |
 | PCA workshop                  | [![build-16]][link-16] [![tests-16]][link-16] [![latest-16]][link-16] [![size-16]][link-16] [![pulls-16]][link-16] |
 | pdb2pqr workshop              | [![build-17]][link-17] [![tests-17]][link-17] [![latest-17]][link-17] [![size-17]][link-17] [![pulls-17]][link-17] |
-| python workshop               | [![build-18]][link-18] [![latest-18]][link-18] [![size-18]][link-18] [![pulls-18]][link-18] |
+| python workshop               | [![build-18]][link-18] [![tests-18]][link-18] [![latest-18]][link-18] [![size-18]][link-18] [![pulls-18]][link-18] |
 | qmmm workshop                 | [![build-19]][link-19] [![latest-19]][link-19] [![size-19]][link-19] [![pulls-19]][link-19] |
 | structure validation workshop | [![build-20]][link-20] [![latest-20]][link-20] [![size-20]][link-20] [![pulls-20]][link-20] |
 | ubiquitin workshop            | [![build-21]][link-21] [![tests-21]][link-21] [![latest-21]][link-21] [![size-21]][link-21] [![pulls-21]][link-21] |
@@ -138,6 +138,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop
 
 [build-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/test.yaml/badge.svg?branch=main
 [latest-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
