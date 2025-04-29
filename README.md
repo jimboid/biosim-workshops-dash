@@ -4,7 +4,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container |                                                                                                         |
 | ----------------------------- |------------------------------------------------------------------------------------ |
 | ccpbiosim base container      | [![build-1]][link-1] [![tests-1]][link-1] [![latest-1]][link-1] [![size-1]][link-1] [![pulls-1]][link-1] |
-| aiida lysozyme workshop       | [![build-2]][link-2] [![latest-2]][link-2] [![size-2]][link-2] [![pulls-2]][link-2] |
+| aiida lysozyme workshop       | [![build-2]][link-2] [![tests-2]][link-2] [![latest-2]][link-2] [![size-2]][link-2] [![pulls-2]][link-2] |
 | aiida gpcr workshop           | [![build-3]][link-3] [![latest-3]][link-3] [![size-3]][link-3] [![pulls-3]][link-3] |
 | basic analysis workshop       | [![build-4]][link-4] [![tests-4]][link-4] [![latest-4]][link-4] [![size-4]][link-4] [![pulls-4]][link-4] |
 | basic statistics workshop     | [![build-5]][link-5] [![tests-5]][link-5] [![latest-5]][link-5] [![size-5]][link-5] [![pulls-5]][link-5] |
@@ -33,6 +33,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-1]: https://github.com/jimboid/biosim-jupyterhub-base
 
 [build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/test.yaml/badge.svg?branch=main
 [latest-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
