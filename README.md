@@ -16,7 +16,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | enhanced sampling workshop 2  | [![build-11]][link-11] [![tests-11]][link-11] [![latest-11]][link-11] [![size-11]][link-11] [![pulls-11]][link-11] |
 | equilibration workshop        | [![build-12]][link-12] [![tests-12]][link-12] [![latest-12]][link-12] [![size-12]][link-12] [![pulls-12]][link-12] |
 | introamber workshop           | [![build-13]][link-13] [![latest-13]][link-13] [![size-13]][link-13] [![pulls-13]][link-13] |
-| nemd workshop                 | [![build-14]][link-14] [![latest-14]][link-14] [![size-14]][link-14] [![pulls-14]][link-14] |
+| nemd workshop                 | [![build-14]][link-14] [![tests-14]][link-14] [![latest-14]][link-14] [![size-14]][link-14] [![pulls-14]][link-14] |
 | openforcefield workshop       | [![build-15]][link-15] [![tests-15]][link-15] [![latest-15]][link-15] [![size-15]][link-15] [![pulls-15]][link-15] |
 | PCA workshop                  | [![build-16]][link-16] [![tests-16]][link-16] [![latest-16]][link-16] [![size-16]][link-16] [![pulls-16]][link-16] |
 | pdb2pqr workshop              | [![build-17]][link-17] [![tests-17]][link-17] [![latest-17]][link-17] [![size-17]][link-17] [![pulls-17]][link-17] |
@@ -112,6 +112,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-13]: https://github.com/jimboid/biosim-introamber-workshop
 
 [build-14]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-14]: https://img.shields.io/badge/tests-manual-pink?logo=github
 [latest-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
