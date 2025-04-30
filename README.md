@@ -61,6 +61,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-5]: https://github.com/jimboid/biosim-basic-statistics-workshop
 
 [build-6]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-6]: https://img.shields.io/badge/tests-manual-pink?logo=github
 [latest-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
@@ -74,6 +75,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-7]: https://github.com/jimboid/biosim-clustering-workshop
 
 [build-8]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-8]: https://img.shields.io/badge/tests-manual-pink?logo=github
 [latest-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
@@ -108,6 +110,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-12]: https://github.com/jimboid/biosim-equilibration-workshop
 
 [build-13]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-13]: https://img.shields.io/badge/tests-manual-pink?logo=github
 [latest-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
@@ -149,6 +152,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-18]: https://github.com/jimboid/biosim-python-workshop
 
 [build-19]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main
+[tests-19]: https://img.shields.io/badge/tests-manual-pink?logo=github
 [latest-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
