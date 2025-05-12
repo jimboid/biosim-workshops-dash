@@ -27,147 +27,147 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 [build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yml/badge.svg?branch=main
 [tests-1]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-1]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-jupyterhub-base%2Fbiosim-jupyterhub-base.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-1]: https://github.com/jimboid/biosim-jupyterhub-base
 
 [build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-2]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-lysozyme-workshop%2Fbiosim-aiida-lysozyme-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop
 
 [build-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-3]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-aiida-gpcr-workshop%2Fbiosim-aiida-gpcr-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop
 
 [build-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-4]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-analysis-workshop%2Fbiosim-basic-analysis-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-4]: https://github.com/jimboid/biosim-basic-analysis-workshop
 
 [build-5]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-5]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-5]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-statistics-workshop%2Fbiosim-basic-statistics-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-5]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-statistics-workshop%2Fbiosim-basic-statistics-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-5]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-statistics-workshop%2Fbiosim-basic-statistics-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-5]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-basic-statistics-workshop%2Fbiosim-basic-statistics-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-5]: https://github.com/jimboid/biosim-basic-statistics-workshop
 
 [build-6]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-6]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-6]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-beginners-workshop%2Fbiosim-beginners-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-6]: https://github.com/jimboid/biosim-beginners-workshop
 
 [build-7]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-7]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-7]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-clustering-workshop%2Fbiosim-clustering-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-7]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-clustering-workshop%2Fbiosim-clustering-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-7]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-clustering-workshop%2Fbiosim-clustering-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-7]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-clustering-workshop%2Fbiosim-clustering-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-7]: https://github.com/jimboid/biosim-clustering-workshop
 
 [build-8]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-8]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-8]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-codeentropy-workshop%2Fbiosim-codeentropy-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-8]: https://github.com/jimboid/biosim-codeentropy-workshop
 
 [build-9]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-9]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-9]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-docking-workshop%2Fbiosim-docking-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-9]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-docking-workshop%2Fbiosim-docking-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-9]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-docking-workshop%2Fbiosim-docking-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-9]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-docking-workshop%2Fbiosim-docking-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-9]: https://github.com/jimboid/biosim-docking-workshop
 
 [build-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container1.yaml/badge.svg?branch=main
 [tests-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/test-container1.yaml/badge.svg?branch=main
-[latest-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-10]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part1.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop
 
 [build-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container2.yaml/badge.svg?branch=main
 [tests-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/test-container2.yaml/badge.svg?branch=main
-[latest-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-11]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-enhanced-sampling-workshop%2Fbiosim-enhanced-sampling-workshop-part2.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop
 
 [build-12]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-12]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-12]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-equilibration-workshop%2Fbiosim-equilibration-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-12]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-equilibration-workshop%2Fbiosim-equilibration-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-12]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-equilibration-workshop%2Fbiosim-equilibration-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-12]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-equilibration-workshop%2Fbiosim-equilibration-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-12]: https://github.com/jimboid/biosim-equilibration-workshop
 
 [build-13]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-13]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-13]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-introamber-workshop%2Fbiosim-introamber-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-13]: https://github.com/jimboid/biosim-introamber-workshop
 
 [build-14]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-14]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-14]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-nemd-workshop%2Fbiosim-nemd-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-14]: https://github.com/jimboid/biosim-nemd-workshop
 
 [build-15]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-15]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-15]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-openff-workshop%2Fbiosim-openff-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-15]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-openff-workshop%2Fbiosim-openff-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-15]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-openff-workshop%2Fbiosim-openff-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-15]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-openff-workshop%2Fbiosim-openff-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-15]: https://github.com/jimboid/biosim-openff-workshop
 
 [build-16]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-16]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-16]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pca-workshop%2Fbiosim-pca-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-16]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pca-workshop%2Fbiosim-pca-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-16]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pca-workshop%2Fbiosim-pca-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-16]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pca-workshop%2Fbiosim-pca-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-16]: https://github.com/jimboid/biosim-pca-workshop
 
 [build-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-17]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pdb2pqr-workshop%2Fbiosim-pdb2pqr-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-17]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pdb2pqr-workshop%2Fbiosim-pdb2pqr-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-17]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pdb2pqr-workshop%2Fbiosim-pdb2pqr-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-17]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-pdb2pqr-workshop%2Fbiosim-pdb2pqr-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop
 
 [build-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-18]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-python-workshop%2Fbiosim-python-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-18]: https://github.com/jimboid/biosim-python-workshop
 
 [build-19]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-19]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-19]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-qmmm-workshop%2Fbiosim-qmmm-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-19]: https://github.com/jimboid/biosim-qmmm-workshop
 
 [build-20]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-20]: https://img.shields.io/badge/tests-manual-pink?logo=github
-[latest-20]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-structure-validation-workshop%2Fbiosim-structure-validation-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-20]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-structure-validation-workshop%2Fbiosim-structure-validation-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-20]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-structure-validation-workshop%2Fbiosim-structure-validation-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-20]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-structure-validation-workshop%2Fbiosim-structure-validation-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-20]: https://github.com/jimboid/biosim-structure-validation-workshop
 
 [build-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [tests-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/test.yaml/badge.svg?branch=main
-[latest-21]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-ubiquitin-analysis-workshop%2Fbiosim-ubiquitin-analysis-workshop.xml&query=xml%2Fversion%5B.%2Flatest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
+[latest-21]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-ubiquitin-analysis-workshop%2Fbiosim-ubiquitin-analysis-workshop.xml&query=xml%2Fversion%5B.%2Fnewest%5B.%3D%22true%22%5D%5D%2Ftags%5B.!%3D%22latest%22%5D%5B.!%3D%22dev%22%5D&logo=github&label=latest&color=purple
 [size-21]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-ubiquitin-analysis-workshop%2Fbiosim-ubiquitin-analysis-workshop.xml&query=xml%2Fsize&logo=github&label=size&color=orange
 [pulls-21]: https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fgithub.com%2Fjimboid%2Fbackage%2Fraw%2Findex%2Fjimboid%2Fbiosim-ubiquitin-analysis-workshop%2Fbiosim-ubiquitin-analysis-workshop.xml&query=xml%2Fdownloads&logo=github&label=pulls&color=blue
 [link-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop
