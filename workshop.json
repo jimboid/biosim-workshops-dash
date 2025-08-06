@@ -1,0 +1,109 @@
+{
+    "workshop-containers": {
+        "biosim-jupyterhub-base": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-aiida-lysozyme-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-aiida-gpcr-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-basic-analysis-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-basic-statistics-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-beginners-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-clustering-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-codeentropy-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-docking-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-enhanced-sampling-workshop-part1": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-enhanced-sampling-workshop-part2": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-equilibration-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-introamber-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-nemd-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-openff-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-pca-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-pdb2pqr-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-python-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-qmmm-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-structure-validation-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        },
+        "biosim-ubiquitin-analysis-workshop": {
+            "latest": "",
+            "size": "",
+            "pulls": ""
+        }
+    } 
+}
