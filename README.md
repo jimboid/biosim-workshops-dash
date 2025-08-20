@@ -28,7 +28,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | ubiquitin workshop            | [![build-21]][link-21] |
 
 [build-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml/badge.svg?branch=main
-[link-1]: https://github.com/jimboid/biosim-jupyterhub-base
+[link-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
 
 [build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop
