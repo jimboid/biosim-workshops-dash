@@ -4,6 +4,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container |                                          |
 | ----------------------------- |--------------------- |
 | ccpbiosim base container      | [![build-1]][link-1] |
+| ----------------------------- | -------------------- |
 | aiida lysozyme workshop       | [![build-2]][link-2] |
 | aiida gpcr workshop           | [![build-3]][link-3] |
 | basic analysis workshop       | [![build-4]][link-4] |
