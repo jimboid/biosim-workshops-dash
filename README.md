@@ -1,18 +1,19 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-| Container |                                          |
-| ----------------------------- |--------------------- |
-| ccpbiosim base container      | [![build-1]][link-1] |
-| ----------------------------- | -------------------- |
-| aiida lysozyme workshop       | [![build-2]][link-2] |
-| aiida gpcr workshop           | [![build-3]][link-3] |
-| basic analysis workshop       | [![build-4]][link-4] |
-| basic statistics workshop     | [![build-5]][link-5] |
-| beginner workshop             | [![build-6]][link-6] |
-| clustering workshop           | [![build-7]][link-7] |
-| code_entropy workshop         | [![build-8]][link-8] |
-| docking workshop              | [![build-9]][link-9] |
+| Container |                                            |
+| ----------------------------- | ---------------------- |
+| ccpbiosim base container      | [![build-1]][link-1]   |
+| uglymol container             | [![build-22]][link-22] |
+|                               |                        |
+| aiida lysozyme workshop       | [![build-2]][link-2]   |
+| aiida gpcr workshop           | [![build-3]][link-3]   |
+| basic analysis workshop       | [![build-4]][link-4]   |
+| basic statistics workshop     | [![build-5]][link-5]   |
+| beginner workshop             | [![build-6]][link-6]   |
+| clustering workshop           | [![build-7]][link-7]   |
+| code_entropy workshop         | [![build-8]][link-8]   |
+| docking workshop              | [![build-9]][link-9]   |
 | enhanced sampling workshop 1  | [![build-10]][link-10] |
 | enhanced sampling workshop 2  | [![build-11]][link-11] |
 | equilibration workshop        | [![build-12]][link-12] |
@@ -88,3 +89,6 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 [build-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yml/badge.svg?branch=main
 [link-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop
+
+[build-22]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yml/badge.svg?branch=main
+[link-22]: https://github.com/jimboid/biosim-uglymol
