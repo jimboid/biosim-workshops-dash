@@ -1,7 +1,7 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-| Container |                                            |
+| Container                     | Build Status           |
 | ----------------------------- | ---------------------- |
 | ccpbiosim base container      | [![build-1]][link-1]   |
 | uglymol container             | [![build-22]][link-22] |
