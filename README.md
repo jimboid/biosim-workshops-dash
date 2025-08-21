@@ -31,64 +31,64 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [link-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
 
 [build-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop
+[link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml
 
 [build-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop
+[link-3]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yaml
 
 [build-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-4]: https://github.com/jimboid/biosim-basic-analysis-workshop
+[link-4]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yaml
 
 [build-5]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-5]: https://github.com/jimboid/biosim-basic-statistics-workshop
+[link-5]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yaml
 
 [build-6]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-6]: https://github.com/jimboid/biosim-beginners-workshop
+[link-6]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yaml
 
 [build-7]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-7]: https://github.com/jimboid/biosim-clustering-workshop
+[link-7]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yaml
 
 [build-8]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-8]: https://github.com/jimboid/biosim-codeentropy-workshop
+[link-8]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yaml
 
 [build-9]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-9]: https://github.com/jimboid/biosim-docking-workshop
+[link-9]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yaml
 
 [build-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container1.yaml/badge.svg?branch=main
-[link-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop
+[link-10]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yaml
 
 [build-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container2.yaml/badge.svg?branch=main
-[link-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop
+[link-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yaml
 
 [build-12]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-12]: https://github.com/jimboid/biosim-equilibration-workshop
+[link-12]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yaml
 
 [build-13]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-13]: https://github.com/jimboid/biosim-introamber-workshop
+[link-13]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yaml
 
 [build-14]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-14]: https://github.com/jimboid/biosim-nemd-workshop
+[link-14]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yaml
 
 [build-15]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-15]: https://github.com/jimboid/biosim-openff-workshop
+[link-15]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yaml
 
 [build-16]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-16]: https://github.com/jimboid/biosim-pca-workshop
+[link-16]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yaml
 
 [build-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop
+[link-17]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yaml
 
 [build-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-18]: https://github.com/jimboid/biosim-python-workshop
+[link-18]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yaml
 
 [build-19]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-19]: https://github.com/jimboid/biosim-qmmm-workshop
+[link-19]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yaml
 
 [build-20]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-20]: https://github.com/jimboid/biosim-structure-validation-workshop
+[link-20]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yaml
 
 [build-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yaml/badge.svg?branch=main
-[link-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop
+[link-21]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yaml
 
 [build-22]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml/badge.svg?branch=main
-[link-22]: https://github.com/jimboid/biosim-uglymol
+[link-22]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml
