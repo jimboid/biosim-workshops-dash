@@ -1,0 +1,21 @@
+name: version handler
+
+on:
+  repository_dispatch:
+    types: [build]
+
+jobs:
+  update-build:
+    name: update build version
+    runs-on: ubuntu-24.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v5.0.0
+
+      - name: update version in json
+        run: |
+          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.workshop-containers.${{ github.event.client_payload.repo }}.latest = ($a)' workshop.json) > workshop.json   
+
+      - name: display
+        run: |
+          cat test.json
