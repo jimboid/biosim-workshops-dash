@@ -14,7 +14,7 @@ jobs:
 
       - name: update version in json
         run: |
-          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.containers.${{ github.event.client_payload.repo }}.latest = ($a)' workshop.json) > workshop.json   
+          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.containers."${{ github.event.client_payload.repo }}".latest = ($a)' workshop.json) > workshop.json   
 
       - name: display
         run: |
