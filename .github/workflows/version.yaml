@@ -19,3 +19,15 @@ jobs:
       - name: display
         run: |
           cat workshop.json
+
+      - name: send PR
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          commit-message: Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          branch: version-updates
+          title: "Update to workshop.json"
+          body: |
+            Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          base: main
+          signoff: false
+          draft: false
