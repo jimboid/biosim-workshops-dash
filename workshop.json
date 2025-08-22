@@ -1,5 +1,5 @@
 {
-    "workshop-containers": {
+    "containers": {
         "biosim-jupyterhub-base": {
             "latest": "",
             "size": "",
