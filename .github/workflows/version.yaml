@@ -18,4 +18,4 @@ jobs:
 
       - name: display
         run: |
-          cat test.json
+          cat workshop.json
