@@ -1,31 +1,31 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-| Container                     | Build Status           | Latest Build   |
-| ----------------------------- | ---------------------- | -------------- |
-| ccpbiosim base container      | [![ci-1]][ci-link-1]   | [![latest-1]]  |
-| uglymol container             | [![ci-2]][ci-link-2]   | [![latest-2]]  |
-|                               |                        |                |
-| aiida lysozyme workshop       | [![ci-3]][ci-link-3]   | [![latest-3]]  |
-| aiida gpcr workshop           | [![ci-3]][ci-link-4]   | [![latest-4]]  |
-| basic analysis workshop       | [![ci-4]][ci-link-5]   | [![latest-5]]  |
-| basic statistics workshop     | [![ci-5]][ci-link-6]   | [![latest-6]]  |
-| beginner workshop             | [![ci-6]][ci-link-7]   | [![latest-7]]  |
-| clustering workshop           | [![ci-7]][ci-link-8]   | [![latest-8]]  |
-| code_entropy workshop         | [![ci-8]][ci-link-9]   | [![latest-9]]  |
-| docking workshop              | [![ci-9]][ci-link-10]  | [![latest-10]]  |
-| enhanced sampling workshop 1  | [![ci-10]][ci-link-11] | [![latest-11]]  |
-| enhanced sampling workshop 2  | [![ci-11]][ci-link-12] | [![latest-12]]  |
-| equilibration workshop        | [![ci-12]][ci-link-13] | [![latest-13]]  |
-| introamber workshop           | [![ci-13]][ci-link-14] | [![latest-14]]  |
-| nemd workshop                 | [![ci-14]][ci-link-15] | [![latest-15]]  |
-| openforcefield workshop       | [![ci-15]][ci-link-16] | [![latest-16]]  |
-| PCA workshop                  | [![ci-16]][ci-link-17] | [![latest-17]]  |
-| pdb2pqr workshop              | [![ci-17]][ci-link-18] | [![latest-18]]  |
-| python workshop               | [![ci-18]][ci-link-19] | [![latest-19]]  |
-| qmmm workshop                 | [![ci-19]][ci-link-20] | [![latest-20]]  |
-| structure validation workshop | [![ci-20]][ci-link-21] | [![latest-21]]  |
-| ubiquitin workshop            | [![ci-21]][ci-link-22] | [![latest-22]]  |
+| Container                     | Build Status           | Latest Build    |
+| ----------------------------- | ---------------------- | --------------- |
+| ccpbiosim base container      | [![ci-1]][ci-link-1]   | [![latest-1]]   |
+| uglymol container             | [![ci-2]][ci-link-2]   | [![latest-2]]   |
+|                               |                        |                 |
+| aiida lysozyme workshop       | [![ci-3]][ci-link-3]   | [![latest-3]]   |
+| aiida gpcr workshop           | [![ci-4]][ci-link-4]   | [![latest-4]]   |
+| basic analysis workshop       | [![ci-5]][ci-link-5]   | [![latest-5]]   |
+| basic statistics workshop     | [![ci-6]][ci-link-6]   | [![latest-6]]   |
+| beginner workshop             | [![ci-7]][ci-link-7]   | [![latest-7]]   |
+| clustering workshop           | [![ci-8]][ci-link-8]   | [![latest-8]]   |
+| code_entropy workshop         | [![ci-9]][ci-link-9]   | [![latest-9]]   |
+| docking workshop              | [![ci-10]][ci-link-10] | [![latest-10]]  |
+| enhanced sampling workshop 1  | [![ci-11]][ci-link-11] | [![latest-11]]  |
+| enhanced sampling workshop 2  | [![ci-12]][ci-link-12] | [![latest-12]]  |
+| equilibration workshop        | [![ci-13]][ci-link-13] | [![latest-13]]  |
+| introamber workshop           | [![ci-14]][ci-link-14] | [![latest-14]]  |
+| nemd workshop                 | [![ci-15]][ci-link-15] | [![latest-15]]  |
+| openforcefield workshop       | [![ci-16]][ci-link-16] | [![latest-16]]  |
+| PCA workshop                  | [![ci-17]][ci-link-17] | [![latest-17]]  |
+| pdb2pqr workshop              | [![ci-18]][ci-link-18] | [![latest-18]]  |
+| python workshop               | [![ci-19]][ci-link-19] | [![latest-19]]  |
+| qmmm workshop                 | [![ci-20]][ci-link-20] | [![latest-20]]  |
+| structure validation workshop | [![ci-21]][ci-link-21] | [![latest-21]]  |
+| ubiquitin workshop            | [![ci-22]][ci-link-22] | [![latest-22]]  |
 
 [ci-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
