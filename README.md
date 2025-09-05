@@ -6,7 +6,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | ccpbiosim base container      | [![ci-1]][ci-link-1]   | [![latest-1]]  |
 | uglymol container             | [![ci-2]][ci-link-2]   | [![latest-2]]  |
 |                               |                        |                |
-| aiida lysozyme workshop       | [![ci-2]][ci-link-3]   | [![latest-3]]  |
+| aiida lysozyme workshop       | [![ci-3]][ci-link-3]   | [![latest-3]]  |
 | aiida gpcr workshop           | [![ci-3]][ci-link-4]   | [![latest-4]]  |
 | basic analysis workshop       | [![ci-4]][ci-link-5]   | [![latest-5]]  |
 | basic statistics workshop     | [![ci-5]][ci-link-6]   | [![latest-6]]  |
@@ -31,9 +31,9 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [ci-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
 [latest-1]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-jupyterhub-base.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
 
-[ci-3]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml/badge.svg?branch=main
-[ci-link-3]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml
-[latest-3]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-uglymol.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
+[ci-2]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml/badge.svg?branch=main
+[ci-link-2]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml
+[latest-2]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-uglymol.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
 
 [ci-3]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-3]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml
