@@ -35,102 +35,102 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [ci-2]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-2]: https://github.com/jimboid/biosim-uglymol/actions/workflows/build.yaml
 [latest-2]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-uglymol.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-uglymol
+[latest-link-2]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-uglymol
 
 [ci-3]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-3]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml
 [latest-3]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-aiida-lysozyme-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-aiida-lysozyme-workshop
+[latest-link-3]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-aiida-lysozyme-workshop
 
 [ci-4]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-4]: https://github.com/jimboid/biosim-aiida-gpcr-workshop/actions/workflows/build.yaml
 [latest-4]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-aiida-gpcr-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-aiida-gpcr-workshop
+[latest-link-4]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-aiida-gpcr-workshop
 
 [ci-5]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-5]: https://github.com/jimboid/biosim-basic-analysis-workshop/actions/workflows/build.yaml
 [latest-5]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-basic-analysis-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-basic-analysis-workshop
+[latest-link-5]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-basic-analysis-workshop
 
 [ci-6]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-6]: https://github.com/jimboid/biosim-basic-statistics-workshop/actions/workflows/build.yaml
 [latest-6]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-basic-statistics-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-basic-statistics-workshop
+[latest-link-6]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-basic-statistics-workshop
 
 [ci-7]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-7]: https://github.com/jimboid/biosim-beginners-workshop/actions/workflows/build.yaml
 [latest-7]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-beginners-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-beginners-workshop
+[latest-link-7]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-beginners-workshop
 
 [ci-8]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-8]: https://github.com/jimboid/biosim-clustering-workshop/actions/workflows/build.yaml
 [latest-8]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-clustering-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-clustering-workshop
+[latest-link-8]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-clustering-workshop
 
 [ci-9]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-9]: https://github.com/jimboid/biosim-codeentropy-workshop/actions/workflows/build.yaml
 [latest-9]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-codeentropy-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-codeentropy-workshop
+[latest-link-9]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-codeentropy-workshop
 
 [ci-10]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-10]: https://github.com/jimboid/biosim-docking-workshop/actions/workflows/build.yaml
 [latest-10]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-docking-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-docking-workshop
+[latest-link-10]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-docking-workshop
 
 [ci-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container1.yaml/badge.svg?branch=main
 [ci-link-11]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yaml
 [latest-11]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-enhanced-sampling-workshop-part1.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-enhanced-sampling-workshop-part1
+[latest-link-11]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-enhanced-sampling-workshop-part1
 
 [ci-12]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build-container2.yaml/badge.svg?branch=main
 [ci-link-12]: https://github.com/jimboid/biosim-enhanced-sampling-workshop/actions/workflows/build.yaml
 [latest-12]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-enhanced-sampling-workshop-part2.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-enhanced-sampling-workshop-part2
+[latest-link-12]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-enhanced-sampling-workshop-part2
 
 [ci-13]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-13]: https://github.com/jimboid/biosim-equilibration-workshop/actions/workflows/build.yaml
 [latest-13]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-equilibration-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-equilibration-workshop
+[latest-link-13]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-equilibration-workshop
 
 [ci-14]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-14]: https://github.com/jimboid/biosim-introamber-workshop/actions/workflows/build.yaml
 [latest-14]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-introamber-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-introamber-workshop
+[latest-link-14]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-introamber-workshop
 
 [ci-15]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-15]: https://github.com/jimboid/biosim-nemd-workshop/actions/workflows/build.yaml
 [latest-15]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-nemd-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-nemd-workshop
+[latest-link-15]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-nemd-workshop
 
 [ci-16]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-16]: https://github.com/jimboid/biosim-openff-workshop/actions/workflows/build.yaml
 [latest-16]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-openff-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-openff-workshop
+[latest-link-16]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-openff-workshop
 
 [ci-17]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-17]: https://github.com/jimboid/biosim-pca-workshop/actions/workflows/build.yaml
 [latest-17]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-pca-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-pca-workshop
+[latest-link-17]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-pca-workshop
 
 [ci-18]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-18]: https://github.com/jimboid/biosim-pdb2pqr-workshop/actions/workflows/build.yaml
 [latest-18]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-pdb2pqr-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-pdb2pqr-workshop
+[latest-link-18]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-pdb2pqr-workshop
 
 [ci-19]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-19]: https://github.com/jimboid/biosim-python-workshop/actions/workflows/build.yaml
 [latest-19]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-python-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-python-workshop
+[latest-link-19]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-python-workshop
 
 [ci-20]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-20]: https://github.com/jimboid/biosim-qmmm-workshop/actions/workflows/build.yaml
 [latest-20]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-qmmm-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-qmmm-workshop
+[latest-link-20]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-qmmm-workshop
 
 [ci-21]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-21]: https://github.com/jimboid/biosim-structure-validation-workshop/actions/workflows/build.yaml
 [latest-21]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-structure-validation-workshop.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latest-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-structure-validation-workshop
+[latest-link-21]: https://github.com/jimboid/biosim-jupyterhub-base/pkgs/container/biosim-structure-validation-workshop
 
 [ci-22]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-22]: https://github.com/jimboid/biosim-ubiquitin-analysis-workshop/actions/workflows/build.yaml
