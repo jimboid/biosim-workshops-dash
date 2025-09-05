@@ -49,7 +49,7 @@ jobs:
           draft: false
 
       - name: Commit & Push changes
-        if: 'steps.check.outputs.skip'
+        if: 'steps.check.outputs.exists'
         run: |
           git config --global user.name 'jimboid'
           git config --global user.email 'jimboid@users.noreply.github.com'
