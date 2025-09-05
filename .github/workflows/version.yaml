@@ -9,8 +9,8 @@ permissions:
   pull-requests: write
 
 jobs:
-  update-build:
-    name: update build version
+  create-pr:
+    name: update with PR
     runs-on: ubuntu-24.04
     steps:
       - name: checkout
@@ -24,7 +24,32 @@ jobs:
         run: |
           cat workshop.json
 
+      - name: check branch exists
+        id: check
+        run: |
+          prs=$(gh pr list \
+            --repo "$GITHUB_REPOSITORY" \
+            --head 'version-updates' \
+            --base 'main' 
+          if ((prs > 0)); then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: send PR
+        if: '!steps.check.outputs.exists'
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          commit-message: Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          branch: version-updates
+          title: "Update to workshop.json"
+          body: |
+            Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          base: main
+          signoff: false
+          draft: false
+
       - name: Commit & Push changes
+        if: 'steps.check.outputs.exists'
         run: |
           git config --global user.name 'jimboid'
           git config --global user.email 'jimboid@users.noreply.github.com'
