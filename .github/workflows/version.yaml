@@ -32,7 +32,7 @@ jobs:
           prs=$(gh pr list \
             --repo "$GITHUB_REPOSITORY" \
             --head 'version-updates' \
-            --base 'main') \
+            --base 'main' \
             --json title \
             --jq 'length')
           if ((prs > 0)); then
