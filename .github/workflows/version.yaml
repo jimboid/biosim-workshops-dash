@@ -18,14 +18,6 @@ jobs:
         with:
          fetch-depth: 0
 
-      - name: update version in json
-        run: |
-          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.containers."${{ github.event.client_payload.repo }}".latest = ($a)' workshop.json) > workshop.json   
-
-      - name: display
-        run: |
-          cat workshop.json
-
       - name: check branch exists
         id: check
         env:
@@ -41,6 +33,27 @@ jobs:
             echo "exists=true" >> "$GITHUB_OUTPUT"
           fi
 
+      - name: checkout branch
+        if: 'steps.check.outputs.exists'
+        run: |
+          git config --global user.name 'jimboid'
+          git config --global user.email 'jimboid@users.noreply.github.com'
+          git checkout version-updates
+
+      - name: update version in json
+        run: |
+          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.containers."${{ github.event.client_payload.repo }}".latest = ($a)' workshop.json) > workshop.json   
+
+      - name: display
+        run: |
+          cat workshop.json
+
+      - name: push changes
+        if: 'steps.check.outputs.exists'
+        run: |
+          git commit -am "update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}"
+          git push
+
       - name: send PR
         if: '!steps.check.outputs.exists'
         uses: peter-evans/create-pull-request@v7.0.8
@@ -53,12 +66,3 @@ jobs:
           base: main
           signoff: false
           draft: false
-
-      - name: Commit & Push changes
-        if: 'steps.check.outputs.exists'
-        run: |
-          git config --global user.name 'jimboid'
-          git config --global user.email 'jimboid@users.noreply.github.com'
-          git checkout version-updates
-          git commit -am "update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}"
-          git push
