@@ -3,7 +3,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container                     | Build Status       | Latest Build          |
 | ----------------------------- | ------------------ | --------------------- |
-| ccpbiosim base container      | [![ci-1]][cil-1]   | [![lat-1]][latl-1]    |
+| [!ccpbiosim base container][ln-1]      | [![ci-1]][cil-1]   | [![lat-1]][latl-1]    |
 | uglymol container             | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
 |                               |                    |                       |
 | aiida lysozyme workshop       | [![ci-3]][cil-3]   | [![lat-3]][latl-3]    |
@@ -27,6 +27,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | structure validation workshop | [![ci-21]][cil-21] | [![lat-21]][latl-21]  |
 | ubiquitin workshop            | [![ci-22]][cil-22] | [![lat-22]][latl-22]  |
 
+[ln-1]: https://github.com/jimboid/biosim-jupyterhub-base
 [ci-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml/badge.svg?branch=main
 [cil-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
 [lat-1]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-jupyterhub-base.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
