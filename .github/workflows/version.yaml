@@ -9,12 +9,41 @@ permissions:
   pull-requests: write
 
 jobs:
-  update-build:
-    name: update build version
+  create-pr:
+    name: update with PR
     runs-on: ubuntu-24.04
     steps:
       - name: checkout
         uses: actions/checkout@v5.0.0
+
+      - name: update version in json
+        run: |
+          echo $(jq --arg a "${{ github.event.client_payload.tag }}" '.containers."${{ github.event.client_payload.repo }}".latest = ($a)' workshop.json) > workshop.json   
+
+      - name: display
+        run: |
+          cat workshop.json
+
+      - name: send PR
+        uses: peter-evans/create-pull-request@v7.0.8
+        with:
+          commit-message: Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          branch: version-updates
+          title: "Update to workshop.json"
+          body: |
+            Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
+          base: main
+          signoff: false
+          draft: false
+
+  append-pr:
+    name: update PR branch
+    runs-on: ubuntu-24.04
+    steps:
+      - name: checkout
+        uses: actions/checkout@v5.0.0
+        with:
+          ref: "version-updates"
 
       - name: update version in json
         run: |
