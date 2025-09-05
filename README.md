@@ -4,7 +4,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container Source                       | Build Status       | Latest Build          |
 | -------------------------------------- | ------------------ | --------------------- |
 | [ccpbiosim base container][ln-1]       | [![ci-1]][cil-1]   | [![lat-1]][latl-1]    |
-| [uglymol container]][ln-2]             | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
+| [uglymol container][ln-2]             | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
 |                                        |                    |                       |
 | [aiida lysozyme workshop][ln-3]        | [![ci-3]][cil-3]   | [![lat-3]][latl-3]    |
 | [aiida gpcr workshop][ln-4]            | [![ci-4]][cil-4]   | [![lat-4]][latl-4]    |
