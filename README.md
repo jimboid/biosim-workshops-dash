@@ -1,9 +1,9 @@
 # biosim-k8s
 A repository containing the cluster configuration for CCPBioSim and HECBioSim resources.
 
-| Container                     | Build Status           |
-| ----------------------------- | ---------------------- |
-| ccpbiosim base container      | [![ci-1]][ci-link-1]   |
+| Container                     | Build Status           | Latest Build  |
+| ----------------------------- | ---------------------- | ------------- |
+| ccpbiosim base container      | [![ci-1]][ci-link-1]   | [![latest-1]] |
 | uglymol container             | [![ci-22]][ci-link-22] |
 |                               |                        |
 | aiida lysozyme workshop       | [![ci-2]][ci-link-2]   |
@@ -29,6 +29,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 [ci-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-1]: https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml
+[latest-1]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.biosim-jupyterhub-base.latest&logo=github&logoColor=lightgrey&label=latest&color=purple
 
 [ci-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
 [ci-link-2]: https://github.com/jimboid/biosim-aiida-lysozyme-workshop/actions/workflows/build.yaml
