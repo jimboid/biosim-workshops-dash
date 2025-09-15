@@ -64,5 +64,6 @@ jobs:
           body: |
             Update ${{ github.event.client_payload.repo }} version to ${{ github.event.client_payload.tag }}
           base: main
+          assignees: jimboid
           signoff: false
           draft: false
