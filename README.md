@@ -4,7 +4,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 | Container Source                       | Build Status       | Latest Build          |
 | -------------------------------------- | ------------------ | --------------------- |
 | [ccpbiosim base container][ln-1]       | [![ci-1]][cil-1]   | [![lat-1]][latl-1]    |
-| [uglymol container][ln-2]             | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
+| [structure-validation-uglymol container][ln-2]             | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
 |                                        |                    |                       |
 | [aiida lysozyme workshop][ln-3]        | [![ci-3]][cil-3]   | [![lat-3]][latl-3]    |
 | [aiida gpcr workshop][ln-4]            | [![ci-4]][cil-4]   | [![lat-4]][latl-4]    |
@@ -33,11 +33,11 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 [lat-1]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fccpbiosim.github.io%2Fworkshops-dash%2Fworkshop.json&query=%24.containers.jupyterhub-base.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
 [latl-1]: https://github.com/ccpbiosim/jupyterhub-base/pkgs/container/jupyterhub-base
 
-[ln-2]: https://github.com/ccpbiosim/uglymol
-[ci-2]: https://github.com/ccpbiosim/uglymol/actions/workflows/build.yaml/badge.svg?branch=main
-[cil-2]: https://github.com/ccpbiosim/uglymol/actions/workflows/build.yaml
-[lat-2]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fccpbiosim.github.io%2Fworkshops-dash%2Fworkshop.json&query=%24.containers.uglymol.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
-[latl-2]: https://github.com/ccpbiosim/jupyterhub-base/pkgs/container/uglymol
+[ln-2]: https://github.com/ccpbiosim/structure-validation-uglymol
+[ci-2]: https://github.com/ccpbiosim/structure-validation-uglymol/actions/workflows/build.yaml/badge.svg?branch=main
+[cil-2]: https://github.com/ccpbiosim/structure-validation-uglymol/actions/workflows/build.yaml
+[lat-2]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fccpbiosim.github.io%2Fworkshops-dash%2Fworkshop.json&query=%24.containers.structure-validation-uglymol.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple
+[latl-2]: https://github.com/ccpbiosim/jupyterhub-base/pkgs/container/structure-validation-uglymol
 
 [ln-3]: https://github.com/ccpbiosim/aiida-lysozyme-workshop
 [ci-3]: https://github.com/ccpbiosim/aiida-lysozyme-workshop/actions/workflows/build.yaml/badge.svg?branch=main
