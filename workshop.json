@@ -130,6 +130,9 @@
     },
     "equilibration-workshop": {
       "latest": "2025-09-22"
+    },
+    "ubiquitin-analysis-workshop": {
+      "latest": "2025-09-22"
     }
   }
 }
