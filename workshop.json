@@ -112,6 +112,9 @@
     },
     "jupyterhub-base": {
       "latest": "2025-09-22"
+    },
+    "structure-validation-uglymol": {
+      "latest": "2025-09-22"
     }
   }
 }
