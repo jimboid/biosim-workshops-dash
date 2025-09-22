@@ -139,6 +139,9 @@
     },
     "aiida-gpcr-workshop": {
       "latest": "2025-09-22"
+    },
+    "pca-workshop": {
+      "latest": "2025-09-22"
     }
   }
 }
