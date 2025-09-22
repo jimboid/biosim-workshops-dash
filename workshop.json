@@ -136,6 +136,9 @@
     },
     "clustering-workshop": {
       "latest": "2025-09-22"
+    },
+    "aiida-gpcr-workshop": {
+      "latest": "2025-09-22"
     }
   }
 }
