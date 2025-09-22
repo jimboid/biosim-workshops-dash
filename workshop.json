@@ -151,6 +151,9 @@
     },
     "docking-workflow": {
       "latest": "2025-09-22"
+    },
+    "qmmm-workshop": {
+      "latest": "2025-09-22"
     }
   }
 }
