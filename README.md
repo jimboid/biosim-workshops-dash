@@ -3,7 +3,7 @@ A repository containing the cluster configuration for CCPBioSim and HECBioSim re
 
 | Container Source                       | Build Status       | Latest Build          |
 | -------------------------------------- | ------------------ | --------------------- |
-| [ccpbiosim base container](https://github.com/ccpbiosim/jupyterhub-base) | [![](https://github.com/jimboid/biosim-jupyterhub-base/actions/workflows/build.yaml)](https://github.com/ccpbiosim/jupyterhub-base/actions/workflows/build.yaml) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.jupyterhub-base.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple)](https://github.com/ccpbiosim/jupyterhub-base/pkgs/container/jupyterhub-base)    |
+| [ccpbiosim base container](https://github.com/ccpbiosim/jupyterhub-base) | [![](https://github.com/ccpbiosim/jupyterhub-base/actions/workflows/build.yaml)](https://github.com/ccpbiosim/jupyterhub-base/actions/workflows/build.yaml) | [![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fjimboid.github.io%2Fbiosim-workshops-dash%2Fworkshop.json&query=%24.containers.jupyterhub-base.latest&labelColor=grey&logo=github&logoColor=white&label=latest&color=purple)](https://github.com/ccpbiosim/jupyterhub-base/pkgs/container/jupyterhub-base)    |
 | [uglymol container][ln-2]              | [![ci-2]][cil-2]   | [![lat-2]][latl-2]    |
 |                                        |                    |                       |
 | [aiida lysozyme workshop][ln-3]        | [![ci-3]][cil-3]   | [![lat-3]][latl-3]    |
